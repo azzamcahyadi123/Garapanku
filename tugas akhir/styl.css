@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("alas.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 1300px;
+}
+
+
+#ndas h1{
+    text-align: center;
+    font-size: 100px;
+}
+#ndas nav{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+}
+
